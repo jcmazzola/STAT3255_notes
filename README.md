@@ -1,5 +1,5 @@
-# STAT 3255 Classnotes
-This repository contains my contributions to UConn's Introduction to Data Science (STAT 3255) class notes, specifically focusing on Data Visualization with Plotnine.
+# Data Visualization with Plotnine
+This repository contains my contributions to UConn's Introduction to Data Science (STAT 3255) classnotes, specifically focusing on Data Visualization with Plotnine.
 
 Data visualization is an incredibly important skill to possess as a data scientist. Being able to convey findings to individuals in a non-technical background ensures that your insights are understood and useful, helping to bridge the gap between data analysis and decision-making.
 
